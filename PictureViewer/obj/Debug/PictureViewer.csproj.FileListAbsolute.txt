@@ -1,0 +1,19 @@
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Julian\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Eduardo\Desktop\Steph\Nevada Technology Academy\C#\Steph's Picture Viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
